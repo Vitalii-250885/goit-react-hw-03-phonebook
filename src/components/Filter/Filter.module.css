@@ -1,0 +1,10 @@
+.filter {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(184, 208, 222);
+    width: 195px;
+}
+
+.filter_lable {
+    font-size: 14px;
+}
